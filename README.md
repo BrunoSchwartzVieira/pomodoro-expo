@@ -7,7 +7,5 @@ Projeto Expo + TypeScript de um aplicativo Pomodoro simples.
 - `npx expo start` - iniciar o Metro / Expo Dev Tools
 - Abra no Expo Go (Android/iOS) ou rode em emulador.
 
-### Notas
-- Projeto gerado com TypeScript.
+### Nota
 - Dependência opcional incluída: `@react-native-async-storage/async-storage` para persistir a contagem de ciclos.
-- O app **não** inclui som por preferência do usuário.
